@@ -21,6 +21,8 @@
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   &nbsp;
   <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
+  <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
 </div>
 
 ## 
