@@ -38,3 +38,11 @@
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
+
+##
+
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ricardosales546/ricardosales546/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
