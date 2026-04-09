@@ -1,4 +1,7 @@
-## Oiii! Eu sou o Ricardo Sales
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!;Seja+bem-vindo+ao+meu+GitHub;Eu+sou+o+Ricardo;Estudante+de+Ciência+da+Computação)](https://git.io/typing-svg)
+
 
 - 🔭 Trabalhando com **Análise de Dados**.
 - 🌱 Estudando **SQL, Git, GitHub, Power BI, Pandas**, Lógica de Programação e Estrutura de Dados.
@@ -50,3 +53,4 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/ricardosales546/ricardosales546/output/github-snake.svg">
   </picture>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
