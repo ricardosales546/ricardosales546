@@ -44,5 +44,5 @@
 ### 🐍 Minhas Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ricardosales546/ricardosales546/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ricardosales546/ricardosales546/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 </div>
