@@ -7,8 +7,8 @@
 - 🌱 Estudando **SQL, Git, GitHub, Power BI, Pandas**, Lógica de Programação e Estrutura de Dados.
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Gosto de tocar teclado 🎹
+<img align="right" src="https://media.giphy.com/media/8BlU7EWrx3tyA4zCwm/giphy.gif" width="150"><br>
 
-##
 
 ### 🛠 Tecnologias
 
