@@ -10,10 +10,9 @@
 
 ##
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosales546&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosales546&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ricardosales546&show_icons=true&theme=radical&hide_border=true&cache_id=123)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosales546&layout=compact&theme=radical&hide_border=true&cache_id=123)
 
 ##
 
