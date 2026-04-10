@@ -10,9 +10,9 @@
 
 ##
 
-<div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ricardosales546&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo Sales github stats"/> 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosales546&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosales546&show_icons=true&theme=dark&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosales546&layout=compact&theme=dark&title_color=00bfbf&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 </div>
 
 ##
