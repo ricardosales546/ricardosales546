@@ -11,8 +11,8 @@
 ##
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosales546&show_icons=true&theme=dark&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosales546&layout=compact&theme=dark&title_color=00bfbf&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosales546&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosales546&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ##
