@@ -28,7 +28,7 @@
   <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
 </div>
 
-## 
+--- 
 
 <div style="display: inline-block">
   <a href="https://www.linkedin.com/in/ricardosales546" target="_blank">
@@ -42,7 +42,7 @@
   </a>
 </div>
 
-##
+---
 
 ### 🐍 Minhas Contribuições
 
