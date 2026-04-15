@@ -9,26 +9,22 @@
 - ⚡ Curiosidade: Gosto de tocar teclado 🎹
 <img align="right" src="https://media.giphy.com/media/8BlU7EWrx3tyA4zCwm/giphy.gif" width="150"><br>
 
-
 ### 🛠 Tecnologias
 
-<div style="display: inline-block">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;
-  <img align="center" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  &nbsp;
-  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  &nbsp;
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  &nbsp;
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  &nbsp;
-  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
-  <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
+<div>
+  <img align="left" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="left" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="left" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="left" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="left" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="left" alt="Excel" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
+  <img align="left" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
 </div>
+<br clear="all">
+<br>
 
-##
+---
 
 <div style="display: inline-block">
   <a href="https://www.linkedin.com/in/ricardosales546" target="_blank">
