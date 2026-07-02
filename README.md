@@ -48,7 +48,7 @@
 
 ---
 
-### 👁️ Visitantes
+### 👀​ Visitantes
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ricardosales546&label=VISITAS&color=A020F0&style=for-the-badge" alt="Contador de Visitantes" />
