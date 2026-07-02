@@ -40,6 +40,14 @@
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardosales546&theme=radical&locale=pt_BR"/>
+</div>
+
+---
+
 ### 🐍 Minhas Contribuições
 
 <div align="center">
@@ -49,4 +57,5 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/ricardosales546/ricardosales546/output/github-snake.svg">
   </picture>
 </div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
