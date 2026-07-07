@@ -40,14 +40,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardosales546&theme=radical&locale=pt_BR"/>
-</div>
-
----
-
 ### 👀​ Visitantes
 
 <div align="center">
